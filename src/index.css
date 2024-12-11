@@ -1,0 +1,10 @@
+#_app {
+  min-height: 100dvh;
+  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
+}
+
+#_app-container {
+  max-width: 1024px;
+  min-height: inherit;
+  margin-inline: auto;
+}
